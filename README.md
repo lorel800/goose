@@ -1,1 +1,1 @@
-Project Goose initialization
+Goose project started
