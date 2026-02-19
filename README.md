@@ -1,2 +1,1 @@
-# goose
-test
+Project Goose initialization
